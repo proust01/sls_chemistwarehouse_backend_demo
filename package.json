@@ -1,0 +1,18 @@
+{
+  "name": "sls-chemistwarehouse-backend-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add-product.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1092.0",
+    "serverless-offline": "^8.5.0",
+    "underscore": "^1.13.2",
+    "uuidv4": "^6.2.12"
+  }
+}
